@@ -1,0 +1,13 @@
+{
+  "image_id": "eef21912",
+  "pipeline": "style_transfer",
+  "content_name": "test_c.png",
+  "style_name": "test_s.png",
+  "content_weight": 1.0,
+  "style_weight": 100000.0,
+  "method": "Fast VGG Feature Moment Matching (Gatys Statistical Alignment)",
+  "inference_time_ms": 107.9,
+  "timestamp": "2026-10-12T23:36:24.112342",
+  "filename": "st_eef21912.png",
+  "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\style_transfer\\st_eef21912.png"
+}

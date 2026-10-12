@@ -1,0 +1,13 @@
+{
+  "image_id": "a631b753",
+  "pipeline": "style_transfer",
+  "content_name": "landscape.png",
+  "style_name": "Great Wave",
+  "content_weight": 1.0,
+  "style_weight": 100000.0,
+  "method": "Fast VGG Feature Moment Matching (Gatys Statistical Alignment)",
+  "inference_time_ms": 19.84,
+  "timestamp": "2026-10-12T23:31:59.314606",
+  "filename": "st_a631b753.png",
+  "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\style_transfer\\st_a631b753.png"
+}

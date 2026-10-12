@@ -1,0 +1,14 @@
+{
+  "image_id": "e69fe913",
+  "pipeline": "text_to_image",
+  "prompt": "A mystical crystal dragon over mountain peaks",
+  "negative_prompt": "blurry, low quality, distorted, artifacts",
+  "seed": 42,
+  "width": 512,
+  "height": 512,
+  "backend": "CPU_Optimized_Neural_Synthesis",
+  "inference_time_ms": 44.53,
+  "timestamp": "2026-10-12T23:36:23.936736",
+  "filename": "t2i_e69fe913.png",
+  "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\text_to_image\\t2i_e69fe913.png"
+}
