@@ -1,0 +1,34 @@
+[project]
+name = "task04-ai-powered-image-generation-pipeline"
+version = "1.0.0"
+description = "Nexoramind Task 04 - AI-Powered Image Generation Pipeline (Text-to-Image, VGG19 Style Transfer, Image Variations) with FastAPI and Streamlit"
+authors = [
+    { name = "Krishna Gupta" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2.0",
+    "torchvision>=0.17.0",
+    "diffusers>=0.27.0",
+    "transformers>=4.38.0",
+    "accelerate>=0.28.0",
+    "pillow>=10.2.0",
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.28.0",
+    "streamlit>=1.32.0",
+    "python-multipart>=0.0.9",
+    "requests>=2.31.0",
+    "httpx>=0.27.0",
+    "pydantic>=2.6.0",
+    "pytest>=8.0.0",
+    "numpy>=1.26.0",
+    "pandas>=2.2.0"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

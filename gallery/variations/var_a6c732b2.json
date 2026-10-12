@@ -1,0 +1,43 @@
+{
+  "group_id": "a6c732b2",
+  "pipeline": "image_variations",
+  "source_filename": "base.png",
+  "num_variations": 4,
+  "strength": 0.5,
+  "inference_time_ms": 54.22,
+  "timestamp": "2026-10-12T23:36:24.169343",
+  "variations": [
+    {
+      "variation_index": 1,
+      "label": "Vivid Dynamic Range & Saturation",
+      "filename": "var_a6c732b2_v1.png",
+      "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\variations\\var_a6c732b2_v1.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "variation_index": 2,
+      "label": "Dreamy Soft Glow & Ambient Light",
+      "filename": "var_a6c732b2_v2.png",
+      "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\variations\\var_a6c732b2_v2.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "variation_index": 3,
+      "label": "Warm Golden Hour Cinematic Analog",
+      "filename": "var_a6c732b2_v3.png",
+      "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\variations\\var_a6c732b2_v3.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "variation_index": 4,
+      "label": "Cyber Duotone & Chromatic Accent",
+      "filename": "var_a6c732b2_v4.png",
+      "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\variations\\var_a6c732b2_v4.png",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

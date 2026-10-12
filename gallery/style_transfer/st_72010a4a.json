@@ -1,0 +1,13 @@
+{
+  "image_id": "72010a4a",
+  "pipeline": "style_transfer",
+  "content_name": "c.png",
+  "style_name": "Van Gogh's Starry Night",
+  "content_weight": 1.0,
+  "style_weight": 100000.0,
+  "method": "Fast VGG Feature Moment Matching (Gatys Statistical Alignment)",
+  "inference_time_ms": 35.66,
+  "timestamp": "2026-10-12T23:36:24.363617",
+  "filename": "st_72010a4a.png",
+  "file_path": "D:\\Code_Files\\Projects\\Nexoramind\\Task_04-AI_Powered_Image_Generation_Pipeline\\gallery\\style_transfer\\st_72010a4a.png"
+}
